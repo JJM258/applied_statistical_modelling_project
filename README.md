@@ -16,14 +16,19 @@ Git LFS (required to clone the dataset file)
 
 ## How to Run
 Ensure Git LFS is installed locally (git lfs install) before cloning, so the dataset downloads correctly rather than as a pointer file
+
 Clone this repository:
   git clone https://github.com/JJM258/applied_statistical_modelling_project.git
+
 Open Stat_Project.R in RStudio
+
 Install required packages if not already installed:
 r
   install.packages("tidyverse")
   install.packages("caret")
+
 Ensure amazon_ecommerce_1M.csv is in the same working directory as the script (use getwd() to check, setwd() to change if needed)
+
 Run the script in order, from data ingestion through to data visualisation
 
 ## Author
