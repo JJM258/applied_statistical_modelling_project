@@ -6,7 +6,9 @@ A statistical analysis pipeline built in R, exploring an Amazon e-commerce datas
 
 ## Project Structure
 amazon_ecommerce_1M.csv - raw dataset (tracked via Git LFS) Sourced from: https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
+
 Stat_Project.R - full R script covering data ingestion, cleaning, sampling, descriptive statistics, inferential tests (Pearson correlation, Chi-squared, One-way ANOVA, Binomial Logistic Regression), and data visualisation
+
 README.md
 
 ## Technological Requirements
