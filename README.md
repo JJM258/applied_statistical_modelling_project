@@ -12,9 +12,9 @@ Stat_Project.R - full R script covering data ingestion, cleaning, sampling, desc
 README.md
 
 ## Technological Requirements
-R (with the following packages: tidyverse, caret, ploty, )
-RStudio (recommended)
-Git LFS (required to clone the dataset file)
+- R (with the following packages: tidyverse, caret, ploty,)
+- RStudio (recommended)
+- Git LFS (required to clone the dataset file)
 
 ## How to Run
 Ensure Git LFS is installed locally (git lfs install) before cloning, so the dataset downloads correctly rather than as a pointer file
